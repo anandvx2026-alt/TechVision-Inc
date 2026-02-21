@@ -5,6 +5,7 @@ public class HelloWorldTest {
         System.debug('Hello World!');
         System.debug('Reverse Sync Check');
         System.debug('Git Check Commit Changes');
+        System.debug('Git Check Commit Changes 2');
     }
 
 }
