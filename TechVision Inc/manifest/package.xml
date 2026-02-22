@@ -9,7 +9,7 @@
         <name>ApexComponent</name>
     </types>
     <types>
-    <members>*.*</members>
+    <members>*</members>
     <name>CustomField</name>
     </types>
     <types>
